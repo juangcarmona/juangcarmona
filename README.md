@@ -55,10 +55,9 @@ I help companies—from startups to enterprises—build software that lasts. My 
 
 Outside of tech, I’m an alpinist, climber, skydiver, and ski mountaineer. I like to push limits—both on the ground and at 3,000 meters.
 
----
 <p align="center">
   <img src="https://jgcarmona.com/wp-content/uploads/2025/04/IMG-20250425-WA0063.jpg" alt="Juan G Carmona" width="400" />
 </p>
-<p align="center"><i>Build for today, architect for tomorrow, and never stop learning.</i></p>
-> “Build for today, architect for tomorrow, and never stop learning.”
+<h2  align="center" style="font-size: xx-large;"><i>Build for today, design for tomorrow, and never stop exploring.</i></h2 >
+
 
