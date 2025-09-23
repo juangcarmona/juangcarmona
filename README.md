@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Juan G. Carmona </h1>
 <h3 align="center">
-  Software Engineer • Cloud Architect • Mentor & Coach • Extreme Athlete • Family Man 
+  Software & AI Architect • Secure Systems • Cloud & DevOps • Mentor & Coach
 </h3>
 
 <p align="center">
@@ -10,7 +10,8 @@
   <a href="https://linkedin.com/in/juangcarmona" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-juangcarmona-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://www.youtube.com/@juangcarmona" target="_blank"><img src="https://img.shields.io/badge/YouTube-juangcarmona-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://bsky.app/profile/jgcarmona.com" target="_blank"><img src="https://img.shields.io/badge/Bluesky-juangcarmona-0066FF?style=for-the-badge&logo=bluesky&logoColor=white"></a>
-
+  <a href="https://sentrabrain.com" target="_blank"><img src="https://img.shields.io/badge/Sentra%20Brain-Private%20AI-0A192F?style=for-the-badge&logo=apache-openoffice&logoColor=white"></a>
+  <a href="https://github.com/sentra-brain" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Org-sentra--brain-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ## About Me
@@ -24,15 +25,26 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-22272e?style=flat&logo=githubactions&logoColor=white)
 ![LLMs](https://img.shields.io/badge/Local%20LLMs-0A192F?style=flat&logo=openaigym&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/Vector%20DB-ChromaDB-444?style=flat)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Gen-232F3E?style=flat)
+![Agents](https://img.shields.io/badge/Agentic%20AI-Ports%2FAdapters-111?style=flat)
+![MCP](https://img.shields.io/badge/MCP-Tool%20Integrations-0F5?style=flat)
 
-I'm a passionate Software Engineer, Cloud Architect, and mentor who loves building robust, scalable, and secure platforms. I lead and architect full-stack solutions with an emphasis on:
+I’m a software & AI architect focused on **secure, scalable platforms** and **agentic AI systems**. I design and lead full-stack solutions with clear boundaries (runtime vs persistence), strong DevSecOps, and **privacy-first AI**: LLM orchestration, RAG pipelines, MCP-style tool integrations, and observability from day one.
 
+- **AI Architecture:** Agentic runtimes, OpenAI-compatible APIs, streaming events, tool use, retrieval.
+- **Private AI & RAG:** Document pipelines, markdown casting, vector search (ChromaDB), grounded responses.
 - **DevOps & Infrastructure:** Azure, Docker, Terraform, GitHub Actions, CI/CD
 - **Cybersecurity:** Secure-by-design practices
 - **Clean Code:** Domain-driven design, clean architecture
 - **Mentorship:** Coaching developers, engineering teams, startup founders, and tech leaders
 
-I help companies—from startups to enterprises—build software that lasts. My focus: results, long-term value, and technical clarity. Whether hands-on, leading teams, or consulting, I bring energy, strategic vision, and a bias for action.
+I help companies—from startups to enterprises—ship **reliable, secure, and cost-aware** software. Hands-on or leading teams, I bring calm execution, technical clarity, and a bias for outcomes.
 
 <p align="center">
   <img src="https://jgcarmona.com/wp-content/uploads/2025/05/IMG-20250425-WA0066.jpg" alt="Juan G Carmona" width="800" />
@@ -41,11 +53,18 @@ I help companies—from startups to enterprises—build software that lasts. My 
 ## 👥 How I Work
 
 - **Architecture & Delivery:** I design for scalability, security, and developer experience—always with business results in mind.
+- **Secure by default:** identity, least privilege, secrets management, telemetry hardening.
+- **AI with guardrails:** deterministic event flow, monitored tool use, reproducible retrieval.
 - **Mentorship:** I form and coach teams that integrate seamlessly into client organizations.
 - **Community:** I share knowledge, build open source, and support fellow engineers.
 
-## 💡 Highlighted Projects (sorry, public repos ONLY)
+## 🤖 What I’m Building in AI
 
+- **[Sentra Brain](https://github.com/sentra-brain) — Private AI Platform:** modular runtime (ADK-inspired), RAG server/worker, FastAPI gateway, React frontends, Dockerized deployment. Focus: **privacy, security, and reliability** over hype.
+
+## 💡 Highlighted Projects 
+
+- **[Sentra Brain (org)](https://github.com/sentra-brain):** Private, modular AI platform (LLM orchestration, RAG pipelines, agentic runtime, FastAPI gateway, React frontends). Built for **privacy-first** deployments.
 - **[courtly-wp-plugin](https://github.com/juangcarmona/courtly-wp-plugin):** Modular WordPress plugin for padel court booking, MVC-structured, with a calendar-based UI.
 - **[hunting-the-hunter-episode-one](https://github.com/juangcarmona/hunting-the-hunter-episode-one):** Real-world forensic analysis of developer-targeted malware disguised as a job offer.
 - **[lyra](https://github.com/juangcarmona/lyra):** Lightweight CLI tool for efficiently downloading YouTube videos.
