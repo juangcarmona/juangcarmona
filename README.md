@@ -58,15 +58,14 @@ I help companies—from startups to enterprises—ship **reliable, secure, and c
 - **Mentorship:** I form and coach teams that integrate seamlessly into client organizations.
 - **Community:** I share knowledge, build open source, and support fellow engineers.
 
-## 🤖 What I’m Building in AI
-
-- **[Sentra Brain](https://github.com/sentra-brain) — Private AI Platform:** modular runtime (ADK-inspired), RAG server/worker, FastAPI gateway, React frontends, Dockerized deployment. Focus: **privacy, security, and reliability** over hype.
-
 ## 💡 Highlighted Projects 
 
-- **[Sentra Brain (org)](https://github.com/sentra-brain):** Private, modular AI platform (LLM orchestration, RAG pipelines, agentic runtime, FastAPI gateway, React frontends). Built for **privacy-first** deployments.
-- **[courtly-wp-plugin](https://github.com/juangcarmona/courtly-wp-plugin):** Modular WordPress plugin for padel court booking, MVC-structured, with a calendar-based UI.
+- **[Sentra Brain (org)](https://github.com/sentra-brain):** Private, modular AI platform (LLM orchestration, RAG pipelines, agentic runtime, FastAPI gateway, React frontends, Microsfot Agent Framework). Built for **privacy-first** deployments. [https://sentrabrain.com/](https://sentrabrain.com/)
+- **[Star Wars Death Star arc42 Documentation](https://github.com/juangcarmona/starwars-deathstar-arc42-documentation):** Inspired by the Star Wars universe, this project provides an educational example of applying arc42, a popular framework for structured software architecture documentation, to a complex system, exploring each section in detail.
+- **[Mermaid Playground](https://github.com/juangcarmona/mermaid-playground):** This repository contains various examples and guides on how to create and represent different types of UML and C4 diagrams using Mermaid.
+- **[FastAPI REST API Tutorial](https://github.com/juangcarmona/fastapi-rest-api-tutorial):** This repository is an example of a RESTful API implemented with FastAPI. It includes concepts such as DDD, Vertical Slices, Dependency Injection, Security, Swagger, and more. **NOTE: README.ms is in Spanish.**
 - **[hunting-the-hunter-episode-one](https://github.com/juangcarmona/hunting-the-hunter-episode-one):** Real-world forensic analysis of developer-targeted malware disguised as a job offer.
+- **[courtly-wp-plugin](https://github.com/juangcarmona/courtly-wp-plugin):** Modular WordPress plugin for padel court booking, MVC-structured, with a calendar-based UI.
 - **[lyra](https://github.com/juangcarmona/lyra):** Lightweight CLI tool for efficiently downloading YouTube videos.
 - **[TFST](https://github.com/jgccon/TFST):** Open source HR/time-tracking platform built with .NET and Angular, developed by many friends and maintained by [JGCarmona Consulting](https://github.com/jgccon).
 
