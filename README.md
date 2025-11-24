@@ -44,7 +44,7 @@ I’m a software & AI architect focused on **secure, scalable platforms** and **
 - **Clean Code:** Domain-driven design, clean architecture
 - **Mentorship:** Coaching developers, engineering teams, startup founders, and tech leaders
 
-I help companies—from startups to enterprises—ship **reliable, secure, and cost-aware** software. Hands-on or leading teams, I bring calm execution, technical clarity, and a bias for outcomes.
+I help companies—from startups to enterprises—ship **reliable, secure, and cost-aware** software. Hands-on or leading teams, I bring calm execution, technical excellence, and a bias for outcomes.
 
 <p align="center">
   <img src="https://jgcarmona.com/wp-content/uploads/2025/05/IMG-20250425-WA0066.jpg" alt="Juan G Carmona" width="800" />
