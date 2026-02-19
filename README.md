@@ -9,31 +9,31 @@
   <a href="https://jgcarmona.com" target="_blank"><img src="https://img.shields.io/badge/Website-jgcarmona.com-blue?style=for-the-badge&logo=google-chrome"></a>
   <a href="https://linkedin.com/in/juangcarmona" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-juangcarmona-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://www.youtube.com/@juangcarmona" target="_blank"><img src="https://img.shields.io/badge/YouTube-juangcarmona-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://bsky.app/profile/jgcarmona.com" target="_blank"><img src="https://img.shields.io/badge/Bluesky-juangcarmona-0066FF?style=for-the-badge&logo=bluesky&logoColor=white"></a>
+  <!-- <a href="https://bsky.app/profile/jgcarmona.com" target="_blank"><img src="https://img.shields.io/badge/Bluesky-juangcarmona-0066FF?style=for-the-badge&logo=bluesky&logoColor=white"></a>
   <a href="https://sentrabrain.com" target="_blank"><img src="https://img.shields.io/badge/Sentra%20Brain-Private%20AI-0A192F?style=for-the-badge&logo=apache-openoffice&logoColor=white"></a>
-  <a href="https://github.com/sentra-brain" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Org-sentra--brain-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/sentra-brain" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Org-sentra--brain-000000?style=for-the-badge&logo=github&logoColor=white"></a> -->
 </p>
 
 ## About Me
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-22272e?style=flat&logo=githubactions&logoColor=white)
-![LLMs](https://img.shields.io/badge/Local%20LLMs-0A192F?style=flat&logo=openaigym&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/Vector%20DB-ChromaDB-444?style=flat)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Gen-232F3E?style=flat)
 ![Agents](https://img.shields.io/badge/Agentic%20AI-Ports%2FAdapters-111?style=flat)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/Vector%20DB-ChromaDB-444?style=flat)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-22272e?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LLMs](https://img.shields.io/badge/Local%20LLMs-0A192F?style=flat&logo=openaigym&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Tool%20Integrations-0F5?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Gen-232F3E?style=flat)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
 
 I’m a software & AI architect focused on **secure, scalable platforms** and **agentic AI systems**. I design and lead full-stack solutions with clear boundaries (runtime vs persistence), strong DevSecOps, and **privacy-first AI**: LLM orchestration, RAG pipelines, MCP-style tool integrations, and observability from day one.
 
@@ -47,7 +47,7 @@ I’m a software & AI architect focused on **secure, scalable platforms** and **
 I help companies—from startups to enterprises—ship **reliable, secure, and cost-aware** software. Hands-on or leading teams, I bring calm execution, technical excellence, and a bias for outcomes.
 
 <p align="center">
-  <img src="https://jgcarmona.com/wp-content/uploads/2025/05/IMG-20250425-WA0066.jpg" alt="Juan G Carmona" width="800" />
+  <img src="assets/IMG-20250425-WA0066.jpg" alt="Juan G Carmona" width="800" />
 </p>
 
 ## 👥 How I Work
@@ -73,7 +73,7 @@ I help companies—from startups to enterprises—ship **reliable, secure, and c
 Outside of tech, I’m an alpinist, climber, skydiver, and ski mountaineer. I like to push limits, both on the ground and at 3,000 meters.
 
 <p align="center">
-  <img src="https://jgcarmona.com/wp-content/uploads/2025/04/IMG-20250425-WA0063.jpg" alt="Juan G Carmona" width="400" />
+  <img src="assets/OIP.webp" alt="Juan G Carmona" width="400" />
 </p>
 <h2  align="center" style="font-size: xx-large;"><i>Build for today, design for tomorrow, and never stop exploring.</i></h2 >
 
