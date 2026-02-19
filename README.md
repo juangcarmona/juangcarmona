@@ -9,64 +9,63 @@
   <a href="https://jgcarmona.com" target="_blank"><img src="https://img.shields.io/badge/Website-jgcarmona.com-blue?style=for-the-badge&logo=google-chrome"></a>
   <a href="https://linkedin.com/in/juangcarmona" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-juangcarmona-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://www.youtube.com/@juangcarmona" target="_blank"><img src="https://img.shields.io/badge/YouTube-juangcarmona-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <!-- <a href="https://bsky.app/profile/jgcarmona.com" target="_blank"><img src="https://img.shields.io/badge/Bluesky-juangcarmona-0066FF?style=for-the-badge&logo=bluesky&logoColor=white"></a>
-  <a href="https://sentrabrain.com" target="_blank"><img src="https://img.shields.io/badge/Sentra%20Brain-Private%20AI-0A192F?style=for-the-badge&logo=apache-openoffice&logoColor=white"></a>
-  <a href="https://github.com/sentra-brain" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Org-sentra--brain-000000?style=for-the-badge&logo=github&logoColor=white"></a> -->
 </p>
 
 ## About Me
+Architecting **AI-driven** and **cloud-native platforms** for high-stakes environments: motorsport, defence, mobility and enterprise systems.
 
+![AI Architecture](https://img.shields.io/badge/AI-Architecture-0A192F?style=flat) 
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat&logo=microsoftazure&logoColor=white)    
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Agents](https://img.shields.io/badge/Agentic%20AI-Ports%2FAdapters-111?style=flat)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/Vector%20DB-ChromaDB-444?style=flat)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-22272e?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![LLMs](https://img.shields.io/badge/Local%20LLMs-0A192F?style=flat&logo=openaigym&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Tool%20Integrations-0F5?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Gen-232F3E?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)    
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)    
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
 
-I’m a software & AI architect focused on **secure, scalable platforms** and **agentic AI systems**. I design and lead full-stack solutions with clear boundaries (runtime vs persistence), strong DevSecOps, and **privacy-first AI**: LLM orchestration, RAG pipelines, MCP-style tool integrations, and observability from day one.
 
-- **AI Architecture:** Agentic runtimes, OpenAI-compatible APIs, streaming events, tool use, retrieval.
-- **Private AI & RAG:** Document pipelines, markdown casting, vector search (ChromaDB), grounded responses.
-- **DevOps & Infrastructure:** Azure, Docker, Terraform, GitHub Actions, CI/CD
-- **Cybersecurity:** Secure-by-design practices
-- **Clean Code:** Domain-driven design, clean architecture
-- **Mentorship:** Coaching developers, engineering teams, startup founders, and tech leaders
 
-I help companies—from startups to enterprises—ship **reliable, secure, and cost-aware** software. Hands-on or leading teams, I bring calm execution, technical excellence, and a bias for outcomes.
+- **AI Architecture:** agentic runtimes, retrieval pipelines, tool orchestration, OpenAI-compatible APIs.
+- **Cloud-Native & DevSecOps:** Azure, containers, IaC, CI/CD, observable systems.
+- **Secure-by-Design:** identity-first, least privilege, hardened telemetry and resilient architectures.
+- **Technical Leadership:** platform strategy, system design, mentoring and execution under real constraints.
+
+I help companies, from startups to enterprises, ship **reliable, secure and cost-aware** systems.
 
 <p align="center">
-  <img src="assets/IMG-20250425-WA0066.jpg" alt="Juan G Carmona" width="800" />
+  <img src="assets/IMG-20250425-WA0066.jpg" alt="Juan G Carmona" width="400" />
 </p>
 
-## 👥 How I Work
+## 🚀 Selected Impact
 
-- **Architecture & Delivery:** I design for scalability, security, and developer experience—always with business results in mind.
-- **Secure by default:** identity, least privilege, secrets management, telemetry hardening.
-- **AI with guardrails:** deterministic event flow, monitored tool use, reproducible retrieval.
-- **Mentorship:** I form and coach teams that integrate seamlessly into client organizations.
-- **Community:** I share knowledge, build open source, and support fellow engineers.
+- **[600× performance boost in ML workloads](https://medium.com/@kshilovskiy/scalable-ml-with-azure-kubernetes-and-keda-generating-inputs-with-500-pods-cde66cabf950)** using AKS + KEDA (500+ dynamic pods) in a motorsport analytics environment.
+- **[Architect of Mastria (Alstom Smart Mobility PoC)](https://marketplace.microsoft.com/en-us/product/saas/alstomtransport.alstom_mastria?tab=overview)** - MVP that led to a dedicated R&D unit.
+- **Mission Planning Systems ([Airbus Defence & Space](https://www.airbus.com/en/products-services/defence))** - contributed to NATO-classified A400M software under strict traceability and security constraints.
+- **Enterprise legacy modernization ([Solera VIN Platform](https://www.solera.com/))** - global VIN processing platform from monolith to modular .NET Core microservices architecture, with CI/CD and TDD adoption.
+- **Founder & CTO** - cloud-native architecture, team build-out, fundraising, delivery.
+- **CTO-as-a-Service** for mobility, AgTech, and automotive startups - platform strategy + DevSecOps + AI systems.
 
 ## 💡 Highlighted Projects 
 
-- **[Sentra Brain (org)](https://github.com/sentra-brain):** Private, **modular AI platform** (LLM orchestration, RAG pipelines, agentic runtime, FastAPI gateway, React frontends, Microsfot Agent Framework). Built for **privacy-first** deployments. [https://sentrabrain.com/](https://sentrabrain.com/)
+- **[Sentra Brain (org)](https://github.com/sentra-brain):** Private, **modular AI platform** (LLM orchestration, RAG pipelines, agentic runtime, FastAPI gateway, React frontends, Microsoft Agent Framework). Built for **privacy-first** deployments. [https://sentrabrain.com/](https://sentrabrain.com/)
 - **[Star Wars Death Star arc42 Documentation](https://github.com/juangcarmona/starwars-deathstar-arc42-documentation):** Inspired by the Star Wars universe, this project provides an **educational example of applying arc42**, a popular framework for structured software architecture documentation, to a complex system, exploring each section in detail.
 - **[Mermaid Playground](https://github.com/juangcarmona/mermaid-playground):** This repository contains various examples and guides on **how to create and represent** different types of **UML and C4 diagrams using Mermaid**.
-- **[FastAPI REST API Tutorial](https://github.com/juangcarmona/fastapi-rest-api-tutorial):** This repository is an example of a **RESTful API implemented with FastAPI**. It includes concepts such as** DDD, Vertical Slices, Dependency Injection, Security, Swagger**, and more. **NOTE: README.ms is in Spanish.**
+- **[FastAPI REST API Tutorial](https://github.com/juangcarmona/fastapi-rest-api-tutorial):** This repository is an example of a **RESTful API implemented with FastAPI**. It includes concepts such as DDD, Vertical Slices, Dependency Injection, Security, Swagger, and more. **NOTE: README.ms is in Spanish.**
 - **[Hunting The Hunter (episode one)](https://github.com/juangcarmona/hunting-the-hunter-episode-one):** Real-world **forensic analysis** of developer-targeted **malware** disguised as a job offer.
 - **[Lyra](https://github.com/juangcarmona/lyra):** Lightweight CLI tool to efficiently **download full videos or audio from YouTube** videos.
 
+## 🏁 Industries
+
+Automotive · Motorsport · Defence · Smart Mobility · AgTech · AI Platforms
+
+## 👥 How I Work
+
+- Architecture & delivery under real constraints.
+- Secure-by-default design (identity, least privilege, telemetry hardening).
+- Deterministic AI systems with guardrails.
+- Mentorship & technical leadership.
 
 ## 🏔️ Fun Fact
 
